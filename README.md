@@ -13,7 +13,7 @@
 ## 🌐 Live Preview
 
 You can check the live website here:  
-[🔗 KAKOKI Creative Co.](https://kakokicreative.live/)
+[🔗 KAKOKI Creative Co.](https://kakoki.vercel.app/)
 
 ---
 
